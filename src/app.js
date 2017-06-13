@@ -40,6 +40,13 @@ var HelloWorldLayer = cc.Layer.extend({
 
         this.menuItem = menuItem;
         menuItem.setVisible(false);
+
+        // spine
+        var spine = new sp.SkeletonAnimation("res/spine/ndj.json", "res/spine/ndj.atlas");
+        spine.setPosition(cc.p(size.width / 2, size.height / 2));
+        spine.setAnimation(0, "anniu_loop", true);
+        this.addChild(spine,5);
+
         return true;
     },
     exitCall: function () {

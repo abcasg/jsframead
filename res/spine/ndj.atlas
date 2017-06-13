@@ -1,0 +1,181 @@
+
+ndj.png
+size: 756,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ann_hs
+  rotate: false
+  xy: 2, 142
+  size: 177, 123
+  orig: 177, 123
+  offset: 0, 0
+  index: -1
+ann_hs1
+  rotate: false
+  xy: 388, 186
+  size: 175, 79
+  orig: 177, 123
+  offset: 1, 43
+  index: -1
+ann_qq
+  rotate: false
+  xy: 181, 185
+  size: 205, 80
+  orig: 207, 82
+  offset: 1, 1
+  index: -1
+baodain
+  rotate: false
+  xy: 354, 83
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bp_d
+  rotate: false
+  xy: 2, 6
+  size: 128, 134
+  orig: 130, 136
+  offset: 1, 1
+  index: -1
+bp_gai
+  rotate: false
+  xy: 676, 188
+  size: 76, 77
+  orig: 78, 79
+  offset: 1, 1
+  index: -1
+bp_zhen
+  rotate: false
+  xy: 649, 37
+  size: 33, 32
+  orig: 35, 34
+  offset: 1, 1
+  index: -1
+lzsjq_txd
+  rotate: false
+  xy: 539, 72
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+ndg0001
+  rotate: true
+  xy: 132, 9
+  size: 20, 53
+  orig: 80, 59
+  offset: 0, 2
+  index: -1
+ndg0002
+  rotate: true
+  xy: 676, 158
+  size: 28, 57
+  orig: 80, 59
+  offset: 5, 0
+  index: -1
+ndg0003
+  rotate: false
+  xy: 611, 6
+  size: 31, 57
+  orig: 80, 59
+  offset: 15, 0
+  index: -1
+ndg0004
+  rotate: true
+  xy: 181, 146
+  size: 37, 57
+  orig: 80, 59
+  offset: 22, 0
+  index: -1
+ndg0005
+  rotate: true
+  xy: 243, 28
+  size: 44, 57
+  orig: 80, 59
+  offset: 28, 0
+  index: -1
+ndg0006
+  rotate: false
+  xy: 566, 6
+  size: 43, 57
+  orig: 80, 59
+  offset: 37, 0
+  index: -1
+ndg0007
+  rotate: false
+  xy: 302, 17
+  size: 32, 55
+  orig: 80, 59
+  offset: 48, 0
+  index: -1
+ndg0008
+  rotate: false
+  xy: 735, 136
+  size: 19, 50
+  orig: 80, 59
+  offset: 61, 3
+  index: -1
+paopao
+  rotate: false
+  xy: 649, 71
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+paopao2
+  rotate: false
+  xy: 354, 7
+  size: 76, 74
+  orig: 79, 79
+  offset: 2, 2
+  index: -1
+paopao3
+  rotate: false
+  xy: 456, 2
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+qz_ben
+  rotate: false
+  xy: 565, 156
+  size: 109, 109
+  orig: 111, 111
+  offset: 1, 1
+  index: -1
+qz_di
+  rotate: false
+  xy: 558, 65
+  size: 89, 89
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+qz_lan
+  rotate: false
+  xy: 132, 31
+  size: 109, 109
+  orig: 111, 111
+  offset: 1, 1
+  index: -1
+qz_lv
+  rotate: false
+  xy: 243, 74
+  size: 109, 109
+  orig: 111, 111
+  offset: 1, 1
+  index: -1
+qz_niu
+  rotate: false
+  xy: 539, 2
+  size: 25, 61
+  orig: 27, 63
+  offset: 1, 1
+  index: -1
+shiziguang
+  rotate: false
+  xy: 456, 85
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
