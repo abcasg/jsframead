@@ -31,7 +31,7 @@
 var cc = cc || {};
 cc._tmp = cc._tmp || {};
 cc._LogInfos = {};
-
+cc._isReleaseAD = false; // zzh add
 var _p = window;
 /** @expose */
 _p.gl;
@@ -2409,16 +2409,19 @@ cc.game = /** @lends cc.game# */{
             config["engineDir"] = "frameworks/cocos2d-html5";
             config["frameRate"] = 60;
             config["id"] = "gameCanvas";
-            // config["jsList"] = ["src/resource.js", "src/app.js"];
-            config["jsList"] = [];
-            config["modules"] = ["core","menus"];
+            config["jsList"] = ["src/resource.js", "src/app.js"];
+            config["modules"] = ["core", "menus"];
             config["noCache"] = false;
             config["project_type"] = "javascript";
             config["renderMode"] = 0;
             config["showFPS"] = false;
             config["undefined"] = true;
+            if (cc._isReleaseAD) {
+                config["jsList"] = [];
+            }
             this.config = config;
         }
+
         this._loadConfig();
 
         // Already prepared
